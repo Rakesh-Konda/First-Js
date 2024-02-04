@@ -1,0 +1,16 @@
+.nav{
+    display: flex;
+    flex-direction: row;
+    background-color: blanchedalmond;
+    justify-content: center;
+}
+.lii{
+    list-style-type: none;
+    margin: 10px;
+}
+.l{
+    text-decoration: none;
+    color: rgb(11, 79, 157);
+    font-weight: bold;
+    font-size: 20px;
+}
